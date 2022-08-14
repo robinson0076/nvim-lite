@@ -7,6 +7,11 @@ Neovim config, designed for a kid who doesn't need fancy things on their Neovim 
 Who is him?
 "Sou watashi desu!" (Yes, it's me)
 
+### Requirements
+
+- Neovim (of course you need this for some plugins, you can't use Vim with Lua plugins)
+- Nerd Fonts (otherwise the statusbar will just show some shape instead of icons)
+
 ### How to install this thing
 
 Easy, just copy `nvim` folder inside `.config` folder into your config directory (Usually, it will be in `~/.config/`. Copy it there)
